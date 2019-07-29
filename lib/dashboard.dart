@@ -112,7 +112,7 @@ class _DashboardPageState extends State<DashboardPage> {
                               mainAxisSize: MainAxisSize.min,
                               children: <Widget>[
                                 Text(
-                                  "2800,00",
+                                  "IDR 28.000.000",
                                   style: TextStyle(
                                       color: Colors.white,
                                       fontSize: 30.0,
